@@ -23,4 +23,8 @@ export const Colors = {
     tabIconDefault: '#9BA1A6',
     tabIconSelected: tintColorDark,
   },
+  btnColor: {
+    background: '#3361ff',
+    danger: '#FF033E',
+  }
 };
